@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_candidos/)
 
 
-![Mcandido GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioCandidos&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioCandidos&langs_count=)](https://github.com/anuraghazra/github-readme-stats)
+![Mcandido GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioCandidos&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioCandidos&langs_count=)](https://github.com/MarcioCandidos/github-readme-stats)
 
 
 

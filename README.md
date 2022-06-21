@@ -1,4 +1,8 @@
-### Ola pessoal, me chamo Marcio Candido 😎</br>
+
+
+
+
+### Ola pessoal, me chamo Marcio Candido é com imenso prazer que recebo vocês aqui no meu GitHub 😎</br>
 
 
 </br>
@@ -7,7 +11,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_candidos/)
 
 
-![Mcandido GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioCandidos&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioCandidos&langs_count=)](https://github.com/MarcioCandidos/github-readme-stats)
+![Mcandido GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioCandidos&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioCandidos&langs=)](https://github.com/MarcioCandidos/github-readme-stats)
+
 
 
 
@@ -15,10 +20,15 @@
 
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
+    
 </div></br>
 
-Programação passa a ser uma parte da minha vida!!</br>
+Desenvolvedor web!!</br>
+3F's
 
-Cursando Faculdade Anhanguera - Analise e desenvolvimento de sistemas.</br>
-Udemy - Front-End Cursando
+Cursando Faculdade Anhanguera - Analise e desenvolvimento de sistemas.</br><br>
+
+ <img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> Cursando Front-End <br>Ser Front-End
+
+### Comece pequeno sempre pensando grande!!

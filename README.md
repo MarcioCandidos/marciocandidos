@@ -1,9 +1,7 @@
 
 
 
-
-### Ola pessoal, me chamo Marcio Candido é com imenso prazer que recebo vocês aqui no meu GitHub 😎</br>
-
+### Olá 👋 me chamo Marcio Candido""
 
 </br>
 
@@ -13,7 +11,7 @@
 
 ![Mcandido GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioCandidos&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioCandidos&langs=)](https://github.com/MarcioCandidos/github-readme-stats)
 
-
+ ### Estou sempre em constante aprendizado
 
 
 ### Tecnologias em desenvolvimentos!!
@@ -29,6 +27,6 @@ Desenvolvedor web!!</br>
 
 Cursando Faculdade Anhanguera - Analise e desenvolvimento de sistemas.</br><br>
 
- <img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> Cursando Front-End <br>Ser Front-End
+ <img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> Cursando Front-End <br>SerFront-End
 
 ### Comece pequeno sempre pensando grande!!

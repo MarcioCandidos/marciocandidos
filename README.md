@@ -1,16 +1,22 @@
 
 
 
-### Olá 👋 me chamo Marcio Candido""
 
-</br>
+
+
+### Olá 👋 me chamo Marcio Candido"" <br><br>
+
+### Cursando Faculdade Anhanguera - Analise e desenvolvimento de sistemas
+<br><br>
 
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-candido-501a0522b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_candidos/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciioocandido@gmail.com)
 
 
-![Mcandido GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioCandidos&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioCandidos&langs=)](https://github.com/MarcioCandidos/github-readme-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioCandidos&layout=compact)](https://github.com/MarcioCandidos/github-readme-stats)
  ### Estou sempre em constante aprendizado buscando sempre a melhoria ....
 
 
@@ -24,11 +30,9 @@
 </div></br>
 
 </br>
-3F's
+3F's. Começe pequeo ate qua se torne GRANDE !!
 
-Cursando Faculdade Anhanguera - Analise e desenvolvimento de sistemas.</br><br>
+</br><br>
 
- <img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> Cursando Front-End <br>SerFront-End
+ <img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> Cursando Front-End - SerFront-End
 
-### Comece pequeno sempre pensando grande!!
-.

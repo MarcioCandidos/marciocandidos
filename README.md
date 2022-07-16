@@ -1,9 +1,6 @@
 
 
 
-
-
-
 ### Olá 👋 me chamo Marcio Candido"" <br><br>
 
 ### Cursando Faculdade Anhanguera - Analise e desenvolvimento de sistemas
@@ -14,7 +11,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciioocandido@gmail.com)
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioCandidos&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioCandidos&layout=compact)](https://github.com/MarcioCandidos/github-readme-stats)
  ### Estou sempre em constante aprendizado buscando sempre a melhoria ....

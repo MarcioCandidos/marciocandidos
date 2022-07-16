@@ -31,3 +31,4 @@ Cursando Faculdade Anhanguera - Analise e desenvolvimento de sistemas.</br><br>
  <img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> Cursando Front-End <br>SerFront-End
 
 ### Comece pequeno sempre pensando grande!!
+.

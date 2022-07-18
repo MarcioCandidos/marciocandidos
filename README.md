@@ -6,9 +6,7 @@
 ### Cursando Faculdade Anhanguera - Analise e desenvolvimento de sistemas
 <br><br>
 
-[![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-candido-501a0522b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_candidos/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciioocandido@gmail.com)
+[![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-candido-501a0522b/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciioocandido@gmail.com)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioCandidos&show_icons=true&theme=radical)

@@ -4,16 +4,14 @@
 
 ### Olá 👋 me chamo Marcio Candido"" <br><br>
 
-Um pouco sobre minha pessoa, Sobre o Marcio, estou iniciando minha transição de carreira para TI, com brilho nos olhos, muita determinação e foco para ser melhor a cada nova descoberta.
+Sobre o Marcio, estou iniciando minha transição de carreira para TI, com brilho nos olhos, muita determinação e foco para ser melhor a cada nova descoberta.
 Desde início de 2022 quando iniciei minha graduação em Análise e Desenvolvimento de Sistemas, além de me dedicar na jornada da graduação, em paralelo tenho feito cursos  aperfeiçoando o meu skill e me mostrando a cada conclusão de um curso, que eu estou no caminho certo. 
 
 Minha força de vontade está a todo vapor, com foco e determinação, desta forma tenho sido autodidata, aproveitando as oportunidades e os ensinamentos sempre de muito valor e que estão compartilhados aqui na rede. 
 
-Desde o início quando tomei a decisão de mudar tudo, tenho tido a grande sorte de conhecer pessoas, que em sua maioria estão sendo fundamentais, me apoiando nesta minha busca de uma recolocação no mercado para que eu consiga o meu SIM, pessoas que acreditam no meu potencial e tenho certeza que em breve estarei em uma nova fase, já me dedicando a uma nova organização e olhando a um futuro.
-
 ### Cursando Faculdade Anhanguera - Analise e desenvolvimento de sistemas
 
-QA | FRONT-END | Python
+QA | Python | HTML | CSS | JavaScript
 <br><br>
 
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-candido-501a0522b/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciioocandido@gmail.com)
